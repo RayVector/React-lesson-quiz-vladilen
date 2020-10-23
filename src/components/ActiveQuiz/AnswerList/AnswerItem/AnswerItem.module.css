@@ -1,0 +1,14 @@
+.AnswerItem {
+  border: 1px solid #ffffff;
+  border-radius: 5px;
+  padding: 5px 10px;
+  margin-bottom: 10px;
+  cursor: pointer;
+  background-color: #fff;
+  color: #696969;
+  transition: all .2s ease;
+}
+
+.AnswerItem:hover {
+  box-shadow: 0 3px 30px rgba(255, 255, 255, .5);
+}
